@@ -1,0 +1,15 @@
+Memecallss_Bot respects your privacy and is committed to protecting your personal data.
+
+Data Collection
+The bot does not collect or store any personal user data. We only process the information you send to interact with the bot (such as search queries). No personal data, conversations, or other information is stored or shared with third parties.
+
+Data Usage
+Your interactions with Memecallss_Bot are used solely to provide the services requested, such as tracking meme coins and delivering relevant information.
+
+Third Parties
+Memecallss_Bot does not share any user data with third parties.
+
+Security
+We take appropriate measures to ensure that your data is protected while interacting with the bot. However, Telegram is the platform that hosts the interactions, and we are not responsible for their security practices.
+
+For any questions, please contact the bot
